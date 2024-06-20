@@ -1,0 +1,15 @@
+{
+  "name": "My Token List",
+  "logoURI": "https://example.com/logo.png",
+  "keywords": ["defi", "protocol"],
+  "tokens": [
+    {
+      "chainId": 81457,
+      "address": "0xYourTokenContractAddress",
+      "name": "Mr.Been",
+      "symbol": "BEEN",
+      "decimals": 18,
+      "logoURI": "https://example.com/mrbeen.png"
+    }
+  ]
+}
